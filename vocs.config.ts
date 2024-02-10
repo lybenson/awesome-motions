@@ -10,6 +10,10 @@ export default defineConfig({
     {
       text: 'Example',
       link: '/example'
+    },
+    {
+      text: 'Word',
+      link: '/word'
     }
   ]
 })
